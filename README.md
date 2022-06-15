@@ -1,5 +1,6 @@
 # Gachon_Goods_Rental_System_SE_termProject
 Gachon University SE_termProject
 
-![KakaoTalk_Photo_2022-06-15-21-57-39](https://user-images.githubusercontent.com/90844568/173832629-37558e58-b31d-4ddc-b3ee-b9c66114f99e.png)
+<img width="900" alt="스크린샷 2022-06-15 오후 9 58 30" src="https://user-images.githubusercontent.com/90844568/173832732-098aee2a-6491-4bc1-8ff6-34b083eaae5d.png">
+
 
